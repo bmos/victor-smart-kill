@@ -1,4 +1,4 @@
-httpx~=0.20
+httpx~=0.28
 marshmallow~=3.8
 marshmallow-dataclass[enum,union]~=8.1
 pydocstyle
